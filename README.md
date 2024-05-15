@@ -1,2 +1,2 @@
 # .github
-Github profile
+Default community files for the XR Solutions group on GitHub
