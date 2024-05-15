@@ -1,1 +1,1 @@
-![XR Solutions Banner](https://github.com/XR-Solutions/.github/tree/main/images/xr-solutions-profile-banner.png)
+![XR Solutions Banner](https://raw.githubusercontent.com/XR-Solutions/.github/main/images/xr-solutions-profile-banner.png)
